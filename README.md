@@ -118,14 +118,4 @@ To set up the Library Management System database:
    JOIN Customers c ON i.Issued_cust = c.Customer_Id;
    ```
 
-## Contributing
 
-Contributions are welcome! If you have suggestions, feature requests, or bug reports, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the sections and details according to your specific project requirements and preferences. Ensure to update the paths and names of SQL scripts (`create_database.sql`, `create_tables.sql`, `insert_data.sql`) to match your actual implementation. This README template provides a structured approach to document your Library Management System project on GitHub effectively.
